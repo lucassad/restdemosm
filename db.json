@@ -1,20 +1,20 @@
 {
   "sm":[
     {
-      "metodo": "Já chegou",
+      "metodo": "Instantaneo",
       "prazo": "24 horas",
       "trasportadora": "TYI MotoExpress",
       "valor": "150"
     },
     {
       "metodo": "Express",
-      "prazo": "2 dias úteis",
+      "prazo": "2 dias uteis",
       "trasportadora": "XPTO Express",
       "valor": "25"
     },
     {
       "metodo": "Normal",
-      "prazo": "5 dias úteis",
+      "prazo": "5 dias uteis",
       "trasportadora": "ABC Entregas",
       "valor": "0"
     }
