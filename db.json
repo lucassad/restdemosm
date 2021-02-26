@@ -21,22 +21,29 @@
   ],
   "valcad":[
     {
-      "id": "012345",
-      "prazo": "24 horas",
-      "trasportadora": "TYI MotoExpress",
-      "valor": "150"
+      "id": "55769488077",
+      "endereco": "Rua Venceslau, 195 - 4o andar - Meier - RJ",
+      "telefone": "(21) 98768-2345"
     },
     {
-      "id": "012346",
-      "prazo": "2 dias uteis",
-      "trasportadora": "XPTO Express",
-      "valor": "25"
+      "id": "56766715057",
+      "endereco": "Rua Martins Ferreira, 23 - Botafogo - RJ",
+      "telefone": "(21) 94638-3492"
     },
     {
-      "id": "012347",
-      "prazo": "5 dias uteis",
-      "trasportadora": "ABC Entregas",
-      "valor": "0"
+      "id": "90284460010",
+      "endereco": "Rua Bartolomeu Mitre, 450 - 1o andar - Leblon - RJ",
+      "telefone": "(21) 93342-3442"
+    },
+    {
+      "id": "61390676005",
+      "endereco": "Rua Bolivar, 195 - 5o andar - Copacabana - RJ",
+      "telefone": "(21) 93134-3456"
+    },
+    {
+      "id": "23154639047",
+      "endereco": "Rua Venceslau, 195 - 4o andar - Meier - RJ",
+      "telefone": "(21) 93424-4334"
     }
   ]
 }
