@@ -18,5 +18,25 @@
       "trasportadora": "ABC Entregas",
       "valor": "0"
     }
+  ],
+  "valcad":[
+    {
+      "cpf": "012345",
+      "prazo": "24 horas",
+      "trasportadora": "TYI MotoExpress",
+      "valor": "150"
+    },
+    {
+      "cpf": "012346",
+      "prazo": "2 dias uteis",
+      "trasportadora": "XPTO Express",
+      "valor": "25"
+    },
+    {
+      "cpf": "012347",
+      "prazo": "5 dias uteis",
+      "trasportadora": "ABC Entregas",
+      "valor": "0"
+    }
   ]
 }
