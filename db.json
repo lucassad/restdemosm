@@ -67,5 +67,23 @@
       "id": "23154639047",
       "score": "30"
     }
+  ],
+  "pessoas":[
+    {
+      "id": "Brad Pitt",
+      "cod": "75623"
+    },
+    {
+      "id": "Juliana Paes",
+      "cod": "75624"
+    },
+    {
+      "id": "Lazaro Ramos",
+      "cod": "75625"
+    },
+    {
+      "id": "Mr Bean",
+      "cod": "75626"
+    }
   ]
 }
